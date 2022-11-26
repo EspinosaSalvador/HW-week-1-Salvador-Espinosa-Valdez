@@ -63,7 +63,7 @@ If you want to show us your code and merge please open a pull request on [Github
 
 ## Troubleshooting
 
-The webpage is running in company standards, please let us know if there is anybug in the webpage by issuing a in [Github](https://github.com/EspinosaSalvador/HW-week-1-Salvador-Espinosa-Valdez/issues)
+The webpage is running in company standards, please let us know if there is anybug in the webpage by issuing it in [Github](https://github.com/EspinosaSalvador/HW-week-1-Salvador-Espinosa-Valdez/issues)
 
 ## FAQ (Frecuentrly Asked Questions)
 
