@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* changed tag "div" to "nav" to link again the CSS to the HTML */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +31,12 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+/* changed tag "div" to "nav" to link again the CSS to the HTML */
 
 .header nav ul {
     list-style-type: none;
 }
-
+/* changed tag "div" to "nav" to link again the CSS to the HTML */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* added element main */
 main.hero {
     height: 800px;
     width: 100%;
@@ -68,7 +69,7 @@ main.hero {
     float: right;
     margin-left: 25px;
 }
-
+/* added element section */
 section.content {
     width: 75%;
     display: inline-block;
@@ -187,7 +188,7 @@ section.content {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* added display none so that the footer was invisible to the user */
 .footer {
     padding: 30px;
     clear: both;
