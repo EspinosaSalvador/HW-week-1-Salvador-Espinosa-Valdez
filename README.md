@@ -67,6 +67,8 @@ The webpage is running in company standards, please let us know if there is anyb
 
 ## FAQ (Frecuentrly Asked Questions)
 
+We will update this part when we have some frequently asked question.
+
 ## Team
 
 * Horiseon Team
